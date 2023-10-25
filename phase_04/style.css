@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:black;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background-color: green;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.data {
+    font-size: 24px;
+    margin-top: 20px;
+}
